@@ -2,34 +2,27 @@
 
 Download all The Satan Records Desktop and Mobile applications FREE.
 
-### Markdown
+### The Satan Records Windows Applications
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- The Satan Records Audio Player (TSRAP) (_coming soon_)
+- The Satan Records Legacy Audio Player (TSRLAP) ([Download](https://github.com/TheSatanRecords/The-Satan-Records-Legacy-Audio-Player/releases/download/1.0.0/TheSatanRecordsLegacyAudioPlayer.zip) / [Project](https://github.com/TheSatanRecords/The-Satan-Records-Legacy-Audio-Player))
 
-```markdown
-Syntax highlighted code block
+### The Satan Records Mobile Applications
 
-# Header 1
-## Header 2
-### Header 3
+- The Satan Records Mobile Audio Player (TSRMAP) (_coming soon_)
 
-- Bulleted
-- List
+### The Satan Records Web Applications
 
-1. Numbered
-2. List
+- The Satan Records Web Audio Player (TSRWAP) (_coming soon_)
 
-**Bold** and _Italic_ and `Code` text
+## About The Satan Records
 
-[Link](url) and ![Image](src)
-```
+The most extreme anti-music record label in the world.
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+### Links
 
-### Jekyll Themes
+- [The Satan Records](https://www.thesatan.com)
+- [Bands](https://www.thesatan.com/bands)
+- [Album Releases](https://www.thesatan.com/releases)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/TheSatanRecords/thesatanrecords.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Everything is FREE to download and share.
