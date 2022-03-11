@@ -7,11 +7,13 @@ Download all The Satan Records Desktop and Mobile applications FREE.
 - The Satan Records Audio Player (TSRAP) (_coming soon_ / [Project](https://github.com/TheSatanRecords/The-Satan-Records-Audio-Player))
 - The Satan Records Legacy Audio Player (TSRLAP) ([Download](https://github.com/TheSatanRecords/The-Satan-Records-Legacy-Audio-Player/releases/download/1.0.0/TheSatanRecordsLegacyAudioPlayer.zip) / [Project](https://github.com/TheSatanRecords/The-Satan-Records-Legacy-Audio-Player))
 
-Soon to be included in Microsoft Store.
+Soon to be available in Microsoft Store.
 
 ### The Satan Records Mobile Applications
 
 - The Satan Records Mobile Audio Player (TSRMAP) (_coming soon_)
+
+Soon to be available in Apple, Android and Windows Phone stores.
 
 ### The Satan Records Web Applications
 
