@@ -17,7 +17,9 @@ Soon to be available in Apple, Android and Windows Phone stores.
 
 ### The Satan Records Web Applications
 
-- The Satan Records Web Audio Player (TSRWAP) (_coming soon_)
+- The Satan Records Web Audio Player (TSRWAP) ([Download](https://github.com/TheSatanRecords/The-Satan-Records-Web-Audio-Player/releases/download/1.0.0/TheSatanRecordsWebAudioPlayer.zip) / [Project](https://github.com/TheSatanRecords/The-Satan-Records-Web-Audio-Player))
+
+![The Satan Records Web Audio Player](https://thesatanrecords.github.io/img/the-satan-records-web-audio-player.png)
 
 ## About The Satan Records
 
